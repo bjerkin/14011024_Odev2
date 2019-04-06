@@ -6,7 +6,7 @@
     density="xxhdpi"
     format="10"
     plugin-version="3.3.2"
-    timestamp="1554581441705"
+    timestamp="1554582411171"
     token="-6930172120287917971"
     verifier="COLD_SWAP_REQUESTED" >
 
@@ -24,64 +24,18 @@
         duration="0" />
 
     <artifact
-        location="C:\Users\Berkin\AndroidStudioProjects\MyApplication2\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+        location="C:\Users\Berkin\AndroidStudioProjects\MyApplication2\app\build\intermediates\resources\instant-run\debug\resources-debug.apk"
         type="SPLIT" />
-    <artifact
-        location="C:\Users\Berkin\AndroidStudioProjects\MyApplication2\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\Berkin\AndroidStudioProjects\MyApplication2\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\Berkin\AndroidStudioProjects\MyApplication2\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\Berkin\AndroidStudioProjects\MyApplication2\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\Berkin\AndroidStudioProjects\MyApplication2\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\Berkin\AndroidStudioProjects\MyApplication2\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\Berkin\AndroidStudioProjects\MyApplication2\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\Berkin\AndroidStudioProjects\MyApplication2\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\Berkin\AndroidStudioProjects\MyApplication2\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\Berkin\AndroidStudioProjects\MyApplication2\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\Berkin\AndroidStudioProjects\MyApplication2\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
-        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        ir-eligibility="R_CLASS_CHANGE"
-        timestamp="1554580106799"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="C:\Users\Berkin\AndroidStudioProjects\MyApplication2\app\build\intermediates\resources\instant-run\debug\resources-debug.apk"
-            type="SPLIT" />
+        timestamp="1554582320803"
+        verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\Berkin\AndroidStudioProjects\MyApplication2\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\Berkin\AndroidStudioProjects\MyApplication2\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Berkin\AndroidStudioProjects\MyApplication2\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-            type="SPLIT" />
-        <artifact
             location="C:\Users\Berkin\AndroidStudioProjects\MyApplication2\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Berkin\AndroidStudioProjects\MyApplication2\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\Berkin\AndroidStudioProjects\MyApplication2\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
@@ -90,7 +44,16 @@
             location="C:\Users\Berkin\AndroidStudioProjects\MyApplication2\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
             type="SPLIT" />
         <artifact
+            location="C:\Users\Berkin\AndroidStudioProjects\MyApplication2\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
+        <artifact
             location="C:\Users\Berkin\AndroidStudioProjects\MyApplication2\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Berkin\AndroidStudioProjects\MyApplication2\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Berkin\AndroidStudioProjects\MyApplication2\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\Berkin\AndroidStudioProjects\MyApplication2\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
@@ -104,56 +67,17 @@
         <artifact
             location="C:\Users\Berkin\AndroidStudioProjects\MyApplication2\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
             type="SPLIT_MAIN" />
-    </build>
-    <build
-        build-mode="COLD"
-        ir-eligibility="R_CLASS_CHANGE"
-        timestamp="1554580759910"
-        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="C:\Users\Berkin\AndroidStudioProjects\MyApplication2\app\build\intermediates\resources\instant-run\debug\resources-debug.apk"
             type="SPLIT" />
     </build>
     <build
         build-mode="COLD"
-        timestamp="1554581441705"
+        timestamp="1554582411171"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="C:\Users\Berkin\AndroidStudioProjects\MyApplication2\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            location="C:\Users\Berkin\AndroidStudioProjects\MyApplication2\app\build\intermediates\resources\instant-run\debug\resources-debug.apk"
             type="SPLIT" />
-        <artifact
-            location="C:\Users\Berkin\AndroidStudioProjects\MyApplication2\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Berkin\AndroidStudioProjects\MyApplication2\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Berkin\AndroidStudioProjects\MyApplication2\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Berkin\AndroidStudioProjects\MyApplication2\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Berkin\AndroidStudioProjects\MyApplication2\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Berkin\AndroidStudioProjects\MyApplication2\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Berkin\AndroidStudioProjects\MyApplication2\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Berkin\AndroidStudioProjects\MyApplication2\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Berkin\AndroidStudioProjects\MyApplication2\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Berkin\AndroidStudioProjects\MyApplication2\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Berkin\AndroidStudioProjects\MyApplication2\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
-            type="SPLIT_MAIN" />
     </build>
 
 </instant-run>

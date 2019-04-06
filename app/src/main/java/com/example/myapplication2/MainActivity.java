@@ -26,13 +26,12 @@ public class MainActivity extends AppCompatActivity {
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                /*if( (username.getText().toString().equals("admin")) && (password.getText().toString().equals("password"))){
+                if( (username.getText().toString().equals("admin")) && (password.getText().toString().equals("password"))){
                     openUserInfo();
                 }
                 else{
                     Toast.makeText(MainActivity.this,"Kullanıcı adı ya da şifre hatalı!",Toast.LENGTH_SHORT).show();
-                }*/
-                openUserInfo();
+                }
             }
         });
     }

@@ -1325,6 +1325,7 @@ int layout select_dialog_singlechoice_material 0x7f0b0037
 int layout support_simple_spinner_dropdown_item 0x7f0b0038
 int mipmap ic_launcher 0x7f0c0000
 int mipmap ic_launcher_round 0x7f0c0001
+int mipmap icon 0x7f0c0002
 int string Email 0x7f0d0000
 int string TC_no 0x7f0d0001
 int string abc_action_bar_home_description 0x7f0d0002
