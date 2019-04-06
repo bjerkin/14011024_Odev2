@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application2</string>
+    <string name="button">Button</string>
+    <string name="edit_message">Mesaj giriniz</string>
+    <string name="button_send">Send</string>
+    <string name="name">Ad</string>
+    <string name="surname">Soyad</string>
+    <string name="TC_no">TC KimlikNO</string>
+    <string name="tel">Telephone</string>
+    <string name="Email">E-mail</string>
+    <string name="save">Kaydet</string>
+    <string name="username">Kullanıcı Adı</string>
+    <string name="password">Şifre</string>
+</resources>
